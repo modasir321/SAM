@@ -15,12 +15,5 @@ Ensure you have the following installed:
 - [Jupyter Notebook](https://jupyter.org/install) or [VSCode](https://code.visualstudio.com/): For working with and running the model.
 - Required Python libraries such as `pandas`, `numpy`, and `scikit-learn`. (Install using `pip install -r requirements.txt`).
 
-### Setup
-
-1. **Clone the Repository**
-
-   To begin, clone the repository to your local machine:
-
-   ```bash
-   git clone <repository-url>
+ 
 
